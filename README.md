@@ -4,7 +4,7 @@ In this challenge, you will write an API that can be used to manage _Cars_ store
 
 ## Project Set Up
 
-Follow these steps for starting your project.
+Follow these steps for starting your project.s
 
 - [ ] Fork this repository into your account and **clone your version**.
 - [ ] Add your project manager as collaborator on your repository.
